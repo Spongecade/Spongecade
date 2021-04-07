@@ -1,5 +1,5 @@
 Hello,
-I'm just a little peble who has dabbled in Javascript
+I'm just a little pebble who has dabbled in Javascript
 
 That's all...
 
