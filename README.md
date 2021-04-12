@@ -1,7 +1,7 @@
 Hello,
 I'm just a little pebble who has dabbled in Javascript
 
-Stuff I am...
+I'm a...
 - Discord Bot Dev
 - Minecraft Modder
 
