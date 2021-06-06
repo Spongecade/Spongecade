@@ -5,8 +5,6 @@ I'm a...
 - Discord Developer
 - Minecraft Modder
 
-Contact Email: [[📧]](mailto:spongecade.129@gmail.com)
-
 That's all
 
 
