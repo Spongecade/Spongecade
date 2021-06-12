@@ -1,5 +1,5 @@
 Hello,
-I'm just a little pebble who has dabbled in Javascript
+I'm a pebble who has dabbled in Javascript
 
 I'm a...
 - Discord Developer
