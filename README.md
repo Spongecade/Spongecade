@@ -1,6 +1,6 @@
 Hello,
 
-I'm a pebble who has dabbled in Javascript
+I'm do Javascript
 
 I'm a...
 - Discord Developer
