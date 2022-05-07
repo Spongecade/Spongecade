@@ -1,4 +1,4 @@
-![picture](https://www.minecraft.net/content/dam/games/minecraft/key-art/piglin%20header.jpg.transform/minecraft-image-large/image.jpg)
+![picture](https://myoctocat.com/assets/images/base-octocat.svg)
 
 Hello,
 
