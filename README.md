@@ -1,6 +1,6 @@
 Hello,
 
-I do Javascript ...and a tiny bit of Java
+I do Javascript and Java
 
 I'm a...
 - Discord Developer
