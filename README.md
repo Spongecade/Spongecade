@@ -1,11 +1,11 @@
 **Hello! I am Spongecade!**
-
 ---
-
 I do Javascript, Typescript, and a little bit of Java
 
 [![Top Langs](https://github-readme-stats-a5vwcyuq3-spongecade.vercel.app/api/top-langs/?username=spongecade&exclude_repo=github-readme-stats,Dabble,&layout=compact&theme=codeSTACKr)](https://github.com/spongecade/github-readme-stats)
+
 ---
+
 I'm a...
 - Discord Developer | Languages used: Javascript and Typescript
 - Minecraft Modder | Languages used: Java and Javascript
