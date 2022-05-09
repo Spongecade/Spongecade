@@ -3,6 +3,7 @@
 **Hello!,**
 
 I do Javascript, Typescript, and a little bit of Java
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?spongecade=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm a...
 - Discord Developer | Languages used: Javascript and Typescript
