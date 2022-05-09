@@ -2,7 +2,7 @@
 
 **Hello!,**
 
-I do Javascript and Java
+I do Javascript... and a little bit Java
 
 I'm a...
 - Discord Developer
