@@ -7,7 +7,7 @@ I do Javascript, Typescript, and a little bit of Java
 ---
 
 I'm a...
-- Discord Developer | Languages used: Javascript and Typescript <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height=15>
+- Discord Developer | Languages used: Javascript and Typescript
 - Minecraft Modder | Languages used: Java and Javascript
 
 That's all
