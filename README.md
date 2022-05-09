@@ -6,7 +6,7 @@ I'm a...
 - Discord Developer | Languages used: Javascript and Typescript
 - Minecraft Modder | Languages used: Java and Javascript
 
-[![Top Langs](https://github-readme-stats-a5vwcyuq3-spongecade.vercel.app/api/top-langs/?username=spongecade&exclude_repo=github-readme-stats,dabble)](https://github.com/spongecade/github-readme-stats)
+[![Top Langs](https://github-readme-stats-a5vwcyuq3-spongecade.vercel.app/api/top-langs/?username=spongecade&exclude_repo=github-readme-stats,Dabble)](https://github.com/spongecade/github-readme-stats)
 
 That's all
 
