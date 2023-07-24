@@ -1,6 +1,8 @@
 # Hello! I am Spongecade!
 I do Javascript, Typescript, and a tiny bit of Java
 
+[![Top Langs](github-readme-stats-mtp4ojmrp-spongecade.vercel.app/api/top-langs/?username=spongecade&exclude_repo=github-readme-stats,Dabble,1.17FORGE&layout=compact&theme=codeSTACKr)](https://github.com/spongecade/github-readme-stats)
+
 ---
 
 I'm a...
