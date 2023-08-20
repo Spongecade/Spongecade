@@ -1,18 +1,19 @@
-# Hello! I am Spongecade!
-I do Javascript, Typescript, and a tiny bit of Java
-
-[![Top Langs](https://github-readme-stats-spongecade.vercel.app/api/top-langs/?username=spongecade&exclude_repo=github-readme-stats,Dabble,1.17FORGE&layout=compact&theme=codeSTACKr)](https://github.com/spongecade/github-readme-stats)
+<img alt="Github Banner" src="/assets/github-banner.png">
 
 ---
 
-I'm a...
-- Discord Developer | Languages used: Javascript and Typescript
-- Minecraft Modder | Languages used: Java and Javascript
+## Language Usage
 
-That's all
+<img width=15 height=15 alt="Top Languages" src="/assets/mclaunchericon.png"> Minecraft Modding | Java & Javascript
 
-<!---img src="https://user-images.githubusercontent.com/82066539/167263743-d3b646df-b221-456c-a329-26a5d15d8250.png" width="600" height="256.8"-->
+<img width=15 height=15 src="https://skillicons.dev/icons?i=discord"> Discord Bot Development | Typescript/Javascript & Python
 
-Yep nothing else...
+[![Top Langs](https://github-readme-stats-spongecade.vercel.app/api/top-langs/?username=spongecade&exclude_repo=github-readme-stats&layout=compact&langs_count=4&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## Possible Weekly Grind...
+
+<img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Spongecade&langs_count=4&theme=transparent&layout=compact">
 
 ---
